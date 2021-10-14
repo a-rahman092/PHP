@@ -14,7 +14,7 @@
 
 <body>
 
-  <div class="container-fluid">
+  <div class="container-fluid my-5">
   <h3 class="text-center mt-3">DISPLAY ALL IMAGES FROM DIRECTORY/FOLDER</h3>
   <h5 class="text-center">Responsive Grid Image Gallery Using PHP AND BOOTSTRAP</h5>
     <?php
